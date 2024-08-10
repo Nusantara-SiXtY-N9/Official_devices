@@ -1,16 +1,16 @@
 {
-  "error"          : false,
-  "id"             : "947c2eb8d9b14a9b26168bbbe489af77d341939e70c9c70bbdb865e4bc6a64b9",
-  "filename"       : "Nusantara_v1.0-lavender-09082020-OFFICIAL-1200.zip",
-  "datetime"       : 1596974376,
-  "version"        : "1.0",
-  "size"           : 893515139,
-  "url"            : "https://sourceforge.net/projects/nusantaraproject/files/lavender/Nusantara_v1.0-lavender-09082020-OFFICIAL-1200.zip/download",
-  "filehash"       : "b4ae8724d157e31ca796c87fdd12f86d",
-  "website_url"    : "https://comingsoon",
-  "news_url"       : "https://t.me/snx_builds",
-  "donate_url"     : "https://comingsoon",
-  "maintainer"     : "Sã Śâjjãd",
-  "maintainer_url" : "https://t.me/sa_sajjadx",
-  "forum_url"      : "https://t.me/snx_builds"
+  "error": false,
+  "id": "251937a4972dc0842f5c2592034e49f3ca87148d3e551e3fd801af194a248754",
+  "filename": "Nusantara-SiXtY-N9-lavender-Gapps-06082024-10.0.5-0452-signed.zip",
+  "datetime": 1691439600,
+  "version": "10.0.5",
+  "size": 1149108224,  // Corrected size in bytes
+  "url": "https://master.dl.sourceforge.net/project/nusantara-sixty-n9/lavender/Nusantara-SiXtY-N9-lavender-Gapps-06082024-10.0.5-0452-signed.zip?viasf=1",
+  "filehash": "251937a4972dc0842f5c2592034e49f3ca87148d3e551e3fd801af194a248754",
+  "website_url": "https://comingsoon",
+  "news_url": "https://t.me/snx_builds",
+  "donate_url": "http://buymeacoffee.com/sa.sajjad",
+  "maintainer": "Sã Śâjjãd",
+  "maintainer_url": "https://t.me/sa_sajjadx",
+  "forum_url": "https://t.me/snx_builds"
 }
